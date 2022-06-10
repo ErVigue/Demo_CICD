@@ -16,5 +16,12 @@
 		"color": "green",
 		"material": "polyester",
 		"id": 2
+	},
+
+    {
+		"name": "Krilin",
+		"race": "Human",
+		"material": "blood",
+		"id": 2
 	}
 ]
