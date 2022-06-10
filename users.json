@@ -17,11 +17,19 @@
 		"material": "polyester",
 		"id": 2
 	},
+<<<<<<< HEAD
 
     {
 		"name": "Krilin_2",
 		"race": "Human",
 		"material": "blood",
 		"id": 2
+=======
+    {
+		"name": "Kakaroto",
+		"race": "Sayayin",
+		"material": "flesh and blood",
+		"id": 3
+>>>>>>> b619f70aaed092782031473faa3e6056e8a755b7
 	}
 ]
